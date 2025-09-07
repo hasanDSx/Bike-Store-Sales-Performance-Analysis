@@ -1,6 +1,6 @@
 ________________________________________
 🔍 Data Analysis with SQL Server
-
+_____
 
 I worked on the Bike Store dataset across 9 tables to uncover key business insights, such as:
 
