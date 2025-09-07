@@ -1,4 +1,5 @@
 🔍 Data Analysis with SQL Server
+________________________________________
 
 I worked on the Bike Store dataset across 9 tables to uncover key business insights, such as:
 
@@ -14,8 +15,9 @@ I worked on the Bike Store dataset across 9 tables to uncover key business insig
 
 • Evaluating shipping performance and customer distribution
 
+________________________________________
 Here’s how I approached the analysis:
-
+________________________________________
 
 • Writing efficient and optimized SQL queries using multiple CTEs, subqueries, and rollups
 
@@ -27,9 +29,12 @@ Here’s how I approached the analysis:
 
 • Segmenting data by store, city, product category, and brand to uncover patterns
 
+
 • Using conditional logic to evaluate performance gaps and shipping delays
+________________________________________
 
 📊 Interactive Dashboard Design in Power BI
+________________________________________
 
 I built a fully dynamic and interactive Power BI dashboard that presents the results clearly and supports better decision-making, including:
 
@@ -39,5 +44,7 @@ I built a fully dynamic and interactive Power BI dashboard that presents the res
 • Dynamic breakdowns by store, city, product category, and brand
 
 • Automatically highlighting top-performing stores, products, and months
+
 • Interactive drill-downs for multi-level analysis
+
 • Customized tooltips to display key performance indicators and insights in a user-friendly way
