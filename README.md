@@ -17,7 +17,7 @@ I worked on the Bike Store dataset across 9 tables to uncover key business insig
 
 ________________________________________
 Here’s how I approached the analysis:
-________________________________________
+
 
 • Writing efficient and optimized SQL queries using multiple CTEs, subqueries, and rollups
 
@@ -34,7 +34,7 @@ ________________________________________
 ________________________________________
 
 📊 Interactive Dashboard Design in Power BI
-________________________________________
+
 
 I built a fully dynamic and interactive Power BI dashboard that presents the results clearly and supports better decision-making, including:
 
